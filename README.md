@@ -1,4 +1,4 @@
-# Section_02_BullsCows
+# Bulls & Cows - A Console Game!
 
 The following project is a console game that will ask the user to guess an isogram. Depending on the user input which can only be lowercase and have no repeating letters (definition of an isogram), the game will either return Bull(s) or a Cow(s). 
 
